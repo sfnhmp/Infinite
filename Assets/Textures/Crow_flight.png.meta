@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 59f8b1ba0823c864ea229d076edc3be3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crow_flight_0
+    21300002: Crow_flight_1
+    21300004: Crow_flight_2
+    21300006: Crow_flight_3
+    21300008: Crow_flight_4
+    21300010: Crow_flight_5
+    21300012: Crow_flight_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Crow_flight_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1603
+        width: 499
+        height: 396
+      alignment: 9
+      pivot: {x: .287781507, y: .400496036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crow_flight_1
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1477
+        width: 488
+        height: 436
+      alignment: 9
+      pivot: {x: .282997996, y: .810664475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crow_flight_2
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1622
+        width: 500
+        height: 294
+      alignment: 9
+      pivot: {x: .283280283, y: .550259352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crow_flight_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1123
+        width: 486
+        height: 416
+      alignment: 9
+      pivot: {x: .266902804, y: .269119561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crow_flight_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1063
+        width: 684
+        height: 404
+      alignment: 9
+      pivot: {x: .33797878, y: .420754015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crow_flight_5
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 970
+        width: 525
+        height: 389
+      alignment: 9
+      pivot: {x: .302982002, y: .68992728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crow_flight_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 534
+        width: 485
+        height: 332
+      alignment: 9
+      pivot: {x: .215644404, y: .70028156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
