@@ -82,6 +82,7 @@
      <Compile Include="Assets\Scripts\HighScore\HSBoardScriptScore.cs" />
      <Compile Include="Assets\Scripts\HighScore\HighScore.cs" />
      <Compile Include="Assets\Scripts\HighScore\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\OneWayCollider.cs" />
      <Compile Include="Assets\Scripts\ParallaxingOG.cs" />
      <Compile Include="Assets\Scripts\SpawnScript.cs" />
      <Compile Include="Assets\Scripts\Tiling.cs" />

@@ -3,6 +3,7 @@ guid: 8fa0009d5a986a944b1652325f8c5d3e
 TextureImporter:
   fileIDToRecycleName:
     21300000: Building01
+    21300002: Building02
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -47,12 +48,22 @@ TextureImporter:
     - name: Building01
       rect:
         serializedVersion: 2
-        x: 422
-        y: 408
+        x: 16
+        y: 9
         width: 968
         height: 948
       alignment: 9
       pivot: {x: .505088329, y: .936431885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building02
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 4
+        width: 988
+        height: 1377
+      alignment: 9
+      pivot: {x: .497507334, y: .970367491}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
