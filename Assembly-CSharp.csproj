@@ -69,6 +69,7 @@
      <Compile Include="Assets\Sample Assets\Cross Platform Input\Scripts\TouchPadRelativePositional.cs" />
      <Compile Include="Assets\Sample Assets\Cross Platform Input\Scripts\TouchPadSwipe.cs" />
      <Compile Include="Assets\Sample Assets\Cross Platform Input\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\Scripts\BuildingSpawnScript.cs" />
      <Compile Include="Assets\Scripts\CameraRunnerScript.cs" />
      <Compile Include="Assets\Scripts\CharacterController.cs" />
      <Compile Include="Assets\Scripts\DestroyerScript.cs" />

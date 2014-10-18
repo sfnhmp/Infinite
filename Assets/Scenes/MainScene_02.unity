@@ -167,7 +167,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: m_LocalPosition.x
@@ -212,7 +212,7 @@ Prefab:
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.data[2]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 100000, guid: 6ca96fe4a204a1e449fc9f0b631c4e1e, type: 2}
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: renderOrder
       value: -3
@@ -220,7 +220,7 @@ Prefab:
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.data[1]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 100000, guid: 6ca96fe4a204a1e449fc9f0b631c4e1e, type: 2}
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: spawnMin
       value: 3
@@ -459,6 +459,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obj:
   - {fileID: 100000, guid: 350822a7e5311484abb89fa048da2979, type: 2}
+  - {fileID: 100002, guid: dcfe918e48bb3f04f9fe8eb8ab8c7384, type: 2}
+  - {fileID: 100000, guid: 6ca96fe4a204a1e449fc9f0b631c4e1e, type: 2}
   spawnMin: 2
   spawnMax: 3
   renderOrder: -2
@@ -658,7 +660,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.size
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: m_LocalPosition.x
@@ -711,11 +713,15 @@ Prefab:
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.data[1]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 100002, guid: dcfe918e48bb3f04f9fe8eb8ab8c7384, type: 2}
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: spawnMax
       value: 2.5999999
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
+      propertyPath: obj.Array.data[2]
+      value: 
+      objectReference: {fileID: 100000, guid: 6ca96fe4a204a1e449fc9f0b631c4e1e, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
   m_RootGameObject: {fileID: 684890227}
@@ -766,6 +772,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obj:
   - {fileID: 100000, guid: 350822a7e5311484abb89fa048da2979, type: 2}
+  - {fileID: 100002, guid: dcfe918e48bb3f04f9fe8eb8ab8c7384, type: 2}
+  - {fileID: 100000, guid: 6ca96fe4a204a1e449fc9f0b631c4e1e, type: 2}
   spawnMin: 1.5
   spawnMax: 2.5999999
   renderOrder: -1
@@ -1290,6 +1298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obj:
   - {fileID: 100000, guid: 350822a7e5311484abb89fa048da2979, type: 2}
+  - {fileID: 100000, guid: 6ca96fe4a204a1e449fc9f0b631c4e1e, type: 2}
   spawnMin: 3
   spawnMax: 4.4000001
   renderOrder: -3
@@ -1949,7 +1958,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.size
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: m_LocalPosition.x
@@ -1994,11 +2003,11 @@ Prefab:
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.data[2]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 100000, guid: 6ca96fe4a204a1e449fc9f0b631c4e1e, type: 2}
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.data[1]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 100002, guid: dcfe918e48bb3f04f9fe8eb8ab8c7384, type: 2}
     - target: {fileID: 11400000, guid: e4cfa44fc25e3124b8e2e132bf593eea, type: 2}
       propertyPath: obj.Array.data[0]
       value: 
